@@ -12,9 +12,9 @@ const Navbar = () => {
       </div>
       
       <div className="links">
-        <a href="#about">About</a>
-        <a href="#hire">Hire Freelancer</a>
-        <a href="#find-work">Find work</a>
+        <a href="#about">AbOUT</a>
+        <a href="#hire">Hiring Freelancer</a>
+        <a href="#find-work">Find works</a>
         <a href="#signin">Signin</a>
         <button id='bt1' >Register</button>
       </div>
